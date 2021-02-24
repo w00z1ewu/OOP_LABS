@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPLab09", "LPLab09\LPLab09.csproj", "{99AC5C3E-8D51-43A9-8F4B-AC9DDC66DF02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99AC5C3E-8D51-43A9-8F4B-AC9DDC66DF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AC5C3E-8D51-43A9-8F4B-AC9DDC66DF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AC5C3E-8D51-43A9-8F4B-AC9DDC66DF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AC5C3E-8D51-43A9-8F4B-AC9DDC66DF02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE975B7D-C30A-4088-BF78-42F003CE5B04}
+	EndGlobalSection
+EndGlobal
