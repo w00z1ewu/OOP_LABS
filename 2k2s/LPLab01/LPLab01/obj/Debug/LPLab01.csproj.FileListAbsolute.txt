@@ -1,0 +1,10 @@
+D:\Лабы\OOP\2k2s\LPLab01\LPLab01\bin\Debug\LPLab01.exe.config
+D:\Лабы\OOP\2k2s\LPLab01\LPLab01\bin\Debug\LPLab01.exe
+D:\Лабы\OOP\2k2s\LPLab01\LPLab01\bin\Debug\LPLab01.pdb
+D:\Лабы\OOP\2k2s\LPLab01\LPLab01\obj\Debug\LPLab01.csprojAssemblyReference.cache
+D:\Лабы\OOP\2k2s\LPLab01\LPLab01\obj\Debug\LPLab01.Properties.Resources.resources
+D:\Лабы\OOP\2k2s\LPLab01\LPLab01\obj\Debug\LPLab01.csproj.GenerateResource.cache
+D:\Лабы\OOP\2k2s\LPLab01\LPLab01\obj\Debug\LPLab01.csproj.CoreCompileInputs.cache
+D:\Лабы\OOP\2k2s\LPLab01\LPLab01\obj\Debug\LPLab01.exe
+D:\Лабы\OOP\2k2s\LPLab01\LPLab01\obj\Debug\LPLab01.pdb
+D:\Лабы\OOP\2k2s\LPLab01\LPLab01\obj\Debug\LPLab01.Calculator.resources
