@@ -1,0 +1,12 @@
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\ADADirInfo.cs
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\ADADiskInfo.cs
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\ADAFileInfo.cs
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\ADAFileManager.cs
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\ADAInspect
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\ADALog.cs
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\bin
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\logfile.txt
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\LPLab13.csproj
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\obj
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\Program.cs
+D:\Лабы\OOP\2k1s\LPLab13\LPLab13\TEST

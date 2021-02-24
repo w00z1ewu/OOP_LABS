@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfControlElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ControlElement>
+    <value>Center</value>
+    <xPos>-5</xPos>
+    <yPos>3</yPos>
+    <border>1</border>
+  </ControlElement>
+  <ControlElement>
+    <value>NotCenter</value>
+    <xPos>-5</xPos>
+    <yPos>26</yPos>
+    <border>1</border>
+  </ControlElement>
+  <ControlElement>
+    <value>X-el</value>
+    <xPos>500</xPos>
+    <yPos>0</yPos>
+    <border>1</border>
+  </ControlElement>
+  <ControlElement>
+    <value>Y-el</value>
+    <xPos>0</xPos>
+    <yPos>-500</yPos>
+    <border>1</border>
+  </ControlElement>
+  <ControlElement>
+    <value>RealCenter</value>
+    <xPos>0</xPos>
+    <yPos>0</yPos>
+    <border>1</border>
+  </ControlElement>
+</ArrayOfControlElement>

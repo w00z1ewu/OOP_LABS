@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+	<student name="Danila">
+		<university>BSTU</university>
+		<spec>POIT</spec>
+		<age>18</age>
+	</student>
+	<student name="Dmitry">
+		<university>BSTU</university>
+		<spec>POIT</spec>
+		<age>18</age>
+	</student>
+	<student name="Darya">
+		<university>BSTU</university>
+		<spec>DESIGN</spec>
+		<age>18</age>
+	</student>
+</students>

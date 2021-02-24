@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ControlElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <value>TestValue</value>
+  <xPos>4</xPos>
+  <yPos>25</yPos>
+  <border>1</border>
+</ControlElement>

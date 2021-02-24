@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LPLab14/1.0.0": {
+        "dependencies": {
+          "Microsoft.NetFX20": "1.0.3",
+          "SoapFormatter": "1.0.11"
+        },
+        "runtime": {
+          "LPLab14.dll": {}
+        }
+      },
+      "Microsoft.NetFX20/1.0.3": {},
+      "SoapFormatter/1.0.11": {
+        "runtime": {
+          "lib/netstandard2.0/SoapFormatter.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.11.18748"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LPLab14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NetFX20/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7hPxu4q65ap1yiAuniskpMIJyTwviBIRItCYXozm/6Ikt03Uw3NNQNNzf7mjOEYYi9CG9VIv1KYwBGEa3FWAcg==",
+      "path": "microsoft.netfx20/1.0.3",
+      "hashPath": "microsoft.netfx20.1.0.3.nupkg.sha512"
+    },
+    "SoapFormatter/1.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zE2HkP26lkOcXvEVasjcQT7f4lZWPF+ThBLRLLWQaBz5Kabyr0rQUyBM0BSw7g6JddEqSK/BzhpVitJ0vAu4XA==",
+      "path": "soapformatter/1.0.11",
+      "hashPath": "soapformatter.1.0.11.nupkg.sha512"
+    }
+  }
+}
