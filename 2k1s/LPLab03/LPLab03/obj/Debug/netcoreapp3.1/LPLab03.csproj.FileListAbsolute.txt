@@ -1,0 +1,13 @@
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\bin\Debug\netcoreapp3.1\LPLab03.exe
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\bin\Debug\netcoreapp3.1\LPLab03.deps.json
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\bin\Debug\netcoreapp3.1\LPLab03.runtimeconfig.json
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\bin\Debug\netcoreapp3.1\LPLab03.runtimeconfig.dev.json
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\bin\Debug\netcoreapp3.1\LPLab03.dll
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\bin\Debug\netcoreapp3.1\LPLab03.pdb
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\obj\Debug\netcoreapp3.1\LPLab03.csprojAssemblyReference.cache
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\obj\Debug\netcoreapp3.1\LPLab03.AssemblyInfoInputs.cache
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\obj\Debug\netcoreapp3.1\LPLab03.AssemblyInfo.cs
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\obj\Debug\netcoreapp3.1\LPLab03.csproj.CoreCompileInputs.cache
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\obj\Debug\netcoreapp3.1\LPLab03.dll
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\obj\Debug\netcoreapp3.1\LPLab03.pdb
+D:\Лабы\OOP\2k1s\LPLab03\LPLab03\obj\Debug\netcoreapp3.1\LPLab03.genruntimeconfig.cache

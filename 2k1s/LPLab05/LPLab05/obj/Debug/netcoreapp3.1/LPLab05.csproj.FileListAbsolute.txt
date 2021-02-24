@@ -1,0 +1,13 @@
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\bin\Debug\netcoreapp3.1\LPLab05.exe
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\bin\Debug\netcoreapp3.1\LPLab05.deps.json
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\bin\Debug\netcoreapp3.1\LPLab05.runtimeconfig.json
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\bin\Debug\netcoreapp3.1\LPLab05.runtimeconfig.dev.json
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\bin\Debug\netcoreapp3.1\LPLab05.dll
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\bin\Debug\netcoreapp3.1\LPLab05.pdb
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\obj\Debug\netcoreapp3.1\LPLab05.csprojAssemblyReference.cache
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\obj\Debug\netcoreapp3.1\LPLab05.AssemblyInfoInputs.cache
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\obj\Debug\netcoreapp3.1\LPLab05.AssemblyInfo.cs
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\obj\Debug\netcoreapp3.1\LPLab05.csproj.CoreCompileInputs.cache
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\obj\Debug\netcoreapp3.1\LPLab05.dll
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\obj\Debug\netcoreapp3.1\LPLab05.pdb
+D:\Лабы\OOP\2k1s\LPLab05\LPLab05\obj\Debug\netcoreapp3.1\LPLab05.genruntimeconfig.cache
